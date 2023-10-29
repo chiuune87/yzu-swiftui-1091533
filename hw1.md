@@ -1,7 +1,7 @@
 <h1>HW1</h1>
       
  ```swift
-    import SwiftUI
+import SwiftUI
 
 struct ContentView: View {
     var body: some View {
