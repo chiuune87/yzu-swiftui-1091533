@@ -1,7 +1,7 @@
 <h1>HW3</h1>
       
  ```swift
-    import SwiftUI
+import SwiftUI
 struct ContentView: View{
     var body: some View{
         VStack{
@@ -182,4 +182,4 @@ struct TitleView: View {
 
  ```
 
-<img width="40%" src="https://raw.githubusercontent.com/chiuune87/yzu-swiftui-1091533/main/hw3.jpg">
+<img width="40%" src="https://raw.githubusercontent.com/chiuune87/yzu-swiftui-1091533/main/hw3.PNG">
