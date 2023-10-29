@@ -47,4 +47,4 @@ struct ContentView: View {
 
  ```
 
-<img width="40%" src="https://raw.githubusercontent.com/chiuune87/yzu-swiftui-1091533/main/hw2.mov">
+Uploading hw2.mov
