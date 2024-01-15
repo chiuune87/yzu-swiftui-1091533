@@ -69,20 +69,6 @@ struct WelcomeView: View{
                 .multilineTextAlignment(.center)
         }
         .padding(.top, 20)
-        /* VStack{
-         Image("mobiledevtw")
-         .resizable()
-         .aspectRatio(contentMode: .fit)
-         Text("資訊技術培訓\nWeb/APP/AI應用開發")
-         .fontWeight(.heavy)
-         .lineSpacing(20)
-         .font(.system(size: 32.0))
-         .foregroundColor(.white)
-         .frame(width: 350, height: 150, alignment: .center)
-         .background(Color.blue)
-         .cornerRadius(20.0)
-         .multilineTextAlignment(.center)
-         }*/
     }
 }
 
